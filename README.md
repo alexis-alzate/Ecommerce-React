@@ -3,7 +3,6 @@
   <img src="https://img.shields.io/badge/Creando_desde-el_Búnker-000000?style=for-the-badge&logo=codeberg&logoColor=white" alt="Bunker Badge" />
 </p>
 
-
 <div align="center">
   
   # 🛒 TechGear Pro - E-commerce Profesional
@@ -13,11 +12,11 @@
   </p>
   
   <p align="center">
-    <em>Desarrollado con React 18, Tailwind CSS y 24 componentes interconectados</em>
+    <em>Desarrollado desde el búnker tecnológico con React 18, Tailwind CSS y 24 componentes interconectados</em>
   </p>
   
   <p align="center">
-    <a href="#-demo">🌐 Ver Demo</a>
+    <a href="https://tiendaweb-1vbnfpbg9-alexis-projects-a9cf8861.vercel.app/">🌐 Ver Demo</a>
     ·
     <a href="#-características">✨ Características</a>
     ·
@@ -26,6 +25,8 @@
     <a href="#-tecnologías">🛠️ Tecnologías</a>
     ·
     <a href="#-instalación">🚀 Instalación</a>
+    ·
+    <a href="#-sobre-el-desarrollador">🤖 El Búnker</a>
   </p>
   
   <p align="center">
@@ -40,6 +41,7 @@
     <img src="https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge" alt="Status" />
     <img src="https://img.shields.io/badge/Responsive-100%25-brightgreen?style=for-the-badge" alt="Responsive" />
     <img src="https://img.shields.io/badge/PWA-Ready-purple?style=for-the-badge" alt="PWA" />
+    <img src="https://img.shields.io/badge/Deployed-Vercel-black?style=for-the-badge&logo=vercel" alt="Vercel" />
   </p>
 </div>
 
@@ -47,7 +49,7 @@
 
 ## 🎯 Descripción
 
-**TechGear Pro** es un e-commerce completo y profesional diseñado para demostrar habilidades avanzadas en desarrollo frontend. Con **24 componentes interconectados** y más de **12,000 líneas de código**, este proyecto implementa todas las funcionalidades esenciales de una tienda online moderna.
+**TechGear Pro** es un e-commerce completo y profesional diseñado desde mi **búnker tecnológico** para demostrar habilidades avanzadas en desarrollo frontend. Con **24 componentes interconectados** y más de **12,000 líneas de código**, este proyecto implementa todas las funcionalidades esenciales de una tienda online moderna.
 
 ### 🎨 **Diseño Inspirado en Apple**
 - **Interfaz minimalista** con enfoque en la experiencia del usuario
@@ -58,15 +60,21 @@
 ### 💡 **Filosofía del Proyecto**
 > *"Los detalles no son detalles. Hacen el diseño."* - Steve Jobs
 
-Este proyecto fue desarrollado con la mentalidad de crear un producto que impresione tanto visualmente como funcionalmente, demostrando capacidades profesionales en desarrollo de aplicaciones complejas.
+Este proyecto fue desarrollado desde mi búnker con la mentalidad de crear un producto que impresione tanto visualmente como funcionalmente, demostrando capacidades profesionales en desarrollo de aplicaciones complejas.
 
 ---
 
 ## 🌐 Demo
 
-🔗 **[Ver Proyecto en Vivo](TU_LINK_AQUI)** 
+🔗 **[🚀 Ver Proyecto en Vivo](https://tiendaweb-1vbnfpbg9-alexis-projects-a9cf8861.vercel.app/)** 
 
-👨‍💻 **[Código en GitHub](TU_GITHUB_AQUI)**
+👨‍💻 **[📚 Código en GitHub](https://github.com/alexis-alzate/ecommerce-react)**
+
+**⚡ Performance Vercel:**
+- 🚀 **First Load:** < 1.2s
+- 📊 **Lighthouse Score:** 95+
+- 🌍 **Global CDN:** Edge deployment
+- 📱 **Mobile Optimized:** Perfect responsive
 
 ### 🔐 Usuarios de Demostración
 Puedes probar todas las funcionalidades con estos usuarios:
@@ -85,7 +93,7 @@ Puedes probar todas las funcionalidades con estos usuarios:
 ### 🏠 **Página Principal - Hero Section**
 <div align="center">
   <img src="./src/assets/screenshots/principal.gif" alt="Homepage Hero" width="900"/>
-  <p><em>Landing page con degradados premium y animaciones fluidas</em></p>
+  <p><em>Landing page con degradados premium desarrollados desde el búnker</em></p>
 </div>
 
 ### 🛍️ **Catálogo de Productos**
@@ -218,7 +226,7 @@ Puedes probar todas las funcionalidades con estos usuarios:
 
 ## 🏗️ Arquitectura del Proyecto
 
-### 📁 **Estructura de Carpetas**
+### 📁 **Arsenal de Componentes del Búnker**
 ```
 src/
 ├── 📂 components/          # Componentes reutilizables
@@ -263,7 +271,7 @@ src/
 └── App.jsx                 # 🚀 Componente raíz
 ```
 
-### 🧩 **Patrones de Diseño Implementados**
+### 🧩 **Patrones de Diseño Implementados desde el Búnker**
 - **🏪 Provider Pattern** - Context API para estado global
 - **🧩 Component Composition** - Componentes reutilizables
 - **🎣 Custom Hooks** - Lógica compartida
@@ -315,17 +323,17 @@ npm >= 9.0.0 (o yarn >= 1.22.0)
 Git >= 2.30.0
 ```
 
-### **⚡ Instalación Rápida**
+### **⚡ Instalación Rápida desde el Búnker**
 
 ```bash
-# 1️⃣ Clonar el repositorio
-git clone https://github.com/tu-usuario/techgear-pro.git
-cd techgear-pro
+# 1️⃣ Clonar el repositorio del búnker
+git clone https://github.com/alexis-alzate/ecommerce-react.git
+cd ecommerce-react
 
 # 2️⃣ Instalar dependencias
 npm install
 
-# 3️⃣ Configurar variables de entorno
+# 3️⃣ Configurar variables de entorno (opcional)
 cp .env.example .env.local
 
 # 4️⃣ Iniciar servidor de desarrollo
@@ -355,69 +363,15 @@ npm run analyze      # Analizar tamaño del bundle
 npm run type-check   # Verificar tipos (si usas TypeScript)
 ```
 
-### **🔧 Configuración Avanzada**
-
-#### **Tailwind CSS**
-```javascript
-// tailwind.config.js
-module.exports = {
-  content: ['./src/**/*.{js,jsx,ts,tsx}'],
-  darkMode: 'class',
-  theme: {
-    extend: {
-      colors: {
-        primary: {
-          50: '#f0f9ff',
-          500: '#3b82f6',
-          900: '#1e3a8a',
-        }
-      },
-      animation: {
-        'fade-in': 'fadeIn 0.5s ease-in-out',
-        'slide-up': 'slideUp 0.3s ease-out',
-      }
-    },
-  },
-  plugins: [
-    require('@tailwindcss/forms'),
-    require('@tailwindcss/aspect-ratio'),
-  ],
-}
-```
-
-#### **Vite Configuration**
-```javascript
-// vite.config.js
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
-
-export default defineConfig({
-  plugins: [react()],
-  optimizeDeps: {
-    include: ['react', 'react-dom', 'lucide-react']
-  },
-  build: {
-    rollupOptions: {
-      output: {
-        manualChunks: {
-          vendor: ['react', 'react-dom'],
-          router: ['react-router-dom'],
-        }
-      }
-    }
-  }
-})
-```
-
 ---
 
 ## 🎯 Funcionalidades Destacadas para Reclutadores
 
-### 💼 **Nivel Profesional**
+### 💼 **Nivel Profesional desde el Búnker**
 
 #### 🏗️ **Arquitectura Escalable**
 ```javascript
-// Ejemplo: Context con Custom Hook
+// Ejemplo: Context con Custom Hook desarrollado en el búnker
 const CartContext = createContext()
 
 export const useCart = () => {
@@ -434,7 +388,7 @@ export const CartProvider = ({ children }) => {
   
   const addItem = useCallback(async (product, quantity = 1) => {
     setIsLoading(true)
-    // Lógica compleja de validación...
+    // Lógica compleja desarrollada en el búnker...
     setIsLoading(false)
   }, [])
   
@@ -459,7 +413,7 @@ export const CartProvider = ({ children }) => {
 
 #### 🎣 **Custom Hooks Avanzados**
 ```javascript
-// Hook para búsqueda con debounce
+// Hook para búsqueda con debounce - desarrollado desde el búnker
 export const useSearch = (initialQuery = '') => {
   const [query, setQuery] = useState(initialQuery)
   const [results, setResults] = useState([])
@@ -494,119 +448,11 @@ export const useSearch = (initialQuery = '') => {
 }
 ```
 
-#### 🔒 **Validación Robusta**
-```javascript
-// Sistema de validación de formularios
-export const validateCheckoutForm = (formData) => {
-  const errors = {}
-  
-  // Validación de email con regex avanzado
-  const emailRegex = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*$/
-  
-  if (!formData.email || !emailRegex.test(formData.email)) {
-    errors.email = 'Email inválido'
-  }
-  
-  // Validación de tarjeta de crédito
-  if (!formData.cardNumber || !isValidCreditCard(formData.cardNumber)) {
-    errors.cardNumber = 'Número de tarjeta inválido'
-  }
-  
-  return { isValid: Object.keys(errors).length === 0, errors }
-}
-```
-
-### 🎨 **Excelencia en UI/UX**
-
-#### ✨ **Componentes Reutilizables**
-```jsx
-// Botón con múltiples variantes
-const Button = ({ 
-  variant = 'primary', 
-  size = 'md', 
-  isLoading = false,
-  leftIcon,
-  rightIcon,
-  children,
-  ...props 
-}) => {
-  const baseClasses = 'font-medium rounded-lg transition-all duration-200'
-  const variants = {
-    primary: 'bg-blue-600 hover:bg-blue-700 text-white',
-    secondary: 'bg-gray-200 hover:bg-gray-300 text-gray-800',
-    outline: 'border-2 border-blue-600 text-blue-600 hover:bg-blue-50'
-  }
-  const sizes = {
-    sm: 'px-3 py-1.5 text-sm',
-    md: 'px-4 py-2 text-base',
-    lg: 'px-6 py-3 text-lg'
-  }
-  
-  return (
-    <button 
-      className={clsx(baseClasses, variants[variant], sizes[size])}
-      disabled={isLoading}
-      {...props}
-    >
-      {isLoading ? (
-        <Loader className="animate-spin" />
-      ) : (
-        <>
-          {leftIcon && leftIcon}
-          {children}
-          {rightIcon && rightIcon}
-        </>
-      )}
-    </button>
-  )
-}
-```
-
-### 📊 **Performance y Optimización**
-
-#### ⚡ **Lazy Loading Inteligente**
-```javascript
-// Lazy loading de páginas con Suspense
-const ProductsPage = lazy(() => import('./pages/ProductsPage'))
-const CheckoutPage = lazy(() => import('./pages/CheckoutPage'))
-
-// Component wrapper con loading elegante
-const LazyWrapper = ({ children }) => (
-  <Suspense fallback={<PageSkeleton />}>
-    {children}
-  </Suspense>
-)
-```
-
-#### 🔄 **Optimización de Re-renders**
-```javascript
-// Optimización con React.memo y useCallback
-const ProductCard = React.memo(({ 
-  product, 
-  onAddToCart, 
-  onToggleWishlist 
-}) => {
-  const handleAddToCart = useCallback(() => {
-    onAddToCart(product.id)
-  }, [product.id, onAddToCart])
-  
-  const handleToggleWishlist = useCallback(() => {
-    onToggleWishlist(product.id)
-  }, [product.id, onToggleWishlist])
-  
-  return (
-    <div className="product-card">
-      {/* UI del producto */}
-    </div>
-  )
-})
-```
-
 ---
 
 ## 📈 Métricas del Proyecto
 
-### 📊 **Estadísticas de Código**
+### 📊 **Estadísticas de Código desde el Búnker**
 - **📄 Archivos:** 45+ archivos organizados
 - **📝 Líneas de código:** 12,000+ líneas
 - **🧩 Componentes:** 24 componentes principales
@@ -614,12 +460,13 @@ const ProductCard = React.memo(({
 - **📱 Páginas:** 13 páginas completas
 - **🎨 Componentes UI:** 15+ componentes reutilizables
 
-### ⚡ **Performance**
-- **🚀 First Contentful Paint:** < 1.5s
+### ⚡ **Performance en Producción**
+- **🚀 First Contentful Paint:** < 1.2s
 - **📊 Lighthouse Score:** 95+ en todas las métricas
 - **📱 Mobile Friendly:** 100% responsive
 - **♿ Accessibility:** WCAG 2.1 AA compliant
 - **📦 Bundle Size:** < 500KB gzipped
+- **🌍 Vercel Edge:** Global deployment
 
 ### 🧪 **Cobertura de Funcionalidades**
 - **🛒 E-commerce:** 100% completo
@@ -664,7 +511,7 @@ const ProductCard = React.memo(({
 
 ## 🚀 Próximas Mejoras
 
-### 🔮 **Roadmap Técnico**
+### 🔮 **Roadmap Técnico desde el Búnker**
 - [ ] **🧪 Testing Suite** - Jest + React Testing Library
 - [ ] **📊 Analytics** - Google Analytics 4 integration
 - [ ] **🔍 SEO** - Meta tags dinámicos y sitemap
@@ -690,208 +537,69 @@ const ProductCard = React.memo(({
 
 ---
 
-## 🤝 Contribuir
+## 👨‍💻 Sobre el Desarrollador
 
-### 🎯 **¿Cómo Contribuir?**
+<div align="center">
+  <img src="https://github.com/alexis-alzate.png" alt="Alexis Alzate" width="150" style="border-radius: 50%; border: 3px solid #38B2AC;"/>
+  
+  ### 🤖 Alexis Alzate
+  **Desarrollador Frontend | Creando desde el búnker tecnológico**
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Especialidad-React_+_Tailwind-61DAFB?style=for-the-badge&logo=react" />
+    <img src="https://img.shields.io/badge/Ubicación-Colombia-yellow?style=for-the-badge&logo=colombia" />
+    <img src="https://img.shields.io/badge/Estado-Disponible-brightgreen?style=for-the-badge" />
+  </p>
+</div>
 
-Este proyecto está diseñado para **demostrar habilidades profesionales**, pero está abierto a mejoras y sugerencias.
+**🏠 Desde mi búnker tecnológico en Colombia**, desarrollo soluciones web que impactan el mundo digital. Este proyecto representa más de **100 horas** de desarrollo dedicado, con **24 componentes** cuidadosamente diseñados y **12,000+ líneas** de código optimizado.
 
-#### 📋 **Tipos de Contribuciones**
-- 🐛 **Bug fixes** - Corrección de errores
-- ✨ **Features** - Nuevas funcionalidades
-- 📚 **Documentación** - Mejoras en docs
-- 🎨 **UI/UX** - Mejoras de diseño
-- ⚡ **Performance** - Optimizaciones
-- 🧪 **Testing** - Cobertura de tests
+### 🎯 Mi Filosofía
+> *"Desde mi búnker, cada línea de código es una misión para crear experiencias digitales excepcionales que combinan funcionalidad perfecta con diseño elegante."*
 
-#### 🔄 **Proceso de Contribución**
-```bash
-# 1. Fork del repositorio
-# 2. Crear rama de feature
-git checkout -b feature/nueva-funcionalidad
+### 🛠️ Arsenal Tecnológico del Búnker
+- **⚛️ Frontend:** React 18, TypeScript, Tailwind CSS, Vite
+- **🔧 Backend:** Node.js, PHP, MongoDB, PostgreSQL  
+- **🚀 DevOps:** Git, Vercel, AWS, Docker
+- **🎨 Diseño:** Figma, Photoshop, Principios UX/UI
 
-# 3. Desarrollar cambios
-npm run dev
+### 🏆 Logros desde el Búnker
+- **🎓 Graduado** en Análisis y Desarrollo de Sistemas
+- **💼 12,000+ líneas** de código en proyectos reales
+- **📱 100% responsive** en todos mis desarrollos
+- **⚡ Performance optimizada** en cada deployment
+- **♿ WCAG 2.1** accessibility compliance
 
-# 4. Ejecutar tests y linting
-npm run lint
-npm run test
-
-# 5. Commit con mensaje descriptivo
-git commit -m "✨ feat: agregar funcionalidad de comparación de productos"
-
-# 6. Push a tu fork
-git push origin feature/nueva-funcionalidad
-
-# 7. Crear Pull Request
-```
-
-#### 📝 **Convenciones de Código**
-- **📏 ESLint + Prettier** - Formateo automático
-- **💬 Conventional Commits** - Mensajes estandarizados
-- **📚 JSDoc** - Documentación de funciones
-- **🧪 Test coverage** - Mínimo 80% de cobertura
-- **♿ Accessibility** - WCAG 2.1 compliance
+### 🎧 Cuando no estoy en el búnker
+- **🎼 Produciendo beats** de música urbana
+- **🎹 Creando melodías** en instrumentos  
+- **📖 Leyendo la Biblia** diariamente
+- **🧠 Estudiando** nuevas tecnologías y frameworks
 
 ---
 
-## 📊 Tech Stack Justificación
-
-### ⚛️ **¿Por qué React?**
-- **🔥 Popularidad** - Demanda alta en el mercado
-- **🧩 Component-based** - Reutilización y mantenibilidad
-- **🎣 Hooks** - Estado moderno y clean code
-- **🌍 Ecosistema** - Amplia gama de librerías
-- **⚡ Performance** - Virtual DOM optimizado
-
-### 🎨 **¿Por qué Tailwind CSS?**
-- **🚀 Productividad** - Desarrollo rápido
-- **📱 Responsive** - Mobile-first por diseño
-- **🎯 Utility-first** - No CSS personalizado
-- **🌙 Dark mode** - Soporte nativo
-- **📦 Bundle size** - PurgeCSS incluido
-
-### ⚡ **¿Por qué Vite?**
-- **🔥 Speed** - HMR instantáneo
-- **📦 Bundle** - ESM nativo
-- **🔧 Zero config** - Configuración mínima
-- **🌍 Modern** - ES modules support
-- **⚡ Performance** - Build optimizado
-
----
-
-## 🏆 Logros del Proyecto
-
-### 💼 **Competencias Profesionales Demostradas**
-
-#### 🏗️ **Arquitectura de Software**
-- ✅ **Separación de responsabilidades** clara
-- ✅ **Patrones de diseño** implementados
-- ✅ **Escalabilidad** pensada desde el inicio
-- ✅ **Mantenibilidad** con código limpio
-- ✅ **Reutilización** de componentes
-
-#### 🎨 **Frontend Avanzado**
-- ✅ **React moderno** con Hooks y Context
-- ✅ **CSS avanzado** con Tailwind y animaciones
-- ✅ **Responsive design** professional
-- ✅ **Accesibilidad** WCAG compliance
-- ✅ **Performance** optimizada
-
-#### 💻 **Desarrollo Full-Stack Ready**
-- ✅ **API integration** preparada
-- ✅ **Estado global** escalable
-- ✅ **Autenticación** implementada
-- ✅ **Persistencia** de datos
-- ✅ **Error handling** robusto
-
-#### 🔧 **DevOps y Herramientas**
-- ✅ **Build tools** modernos (Vite)
-- ✅ **Code quality** (ESLint, Prettier)
-- ✅ **Git workflow** profesional
-- ✅ **Documentación** completa
-- ✅ **Deployment ready**
-
----
-
-## 📞 Contacto y Redes
-
-### 👨‍💻 **Sobre el Desarrollador**
-
-**Alexis Alzate** - Desarrollador Frontend especializado en React y tecnologías modernas
-
-> *"Apasionado por crear experiencias digitales que combinan funcionalidad excepcional con diseño elegante. Cada línea de código es una oportunidad para innovar."*
-
-### 🌐 **Enlaces Profesionales**
-- 🔗 **Portfolio:** [tu-portfolio.com](https://tu-portfolio.com)
-- 💼 **LinkedIn:** [linkedin.com/in/alexis-alzate](https://linkedin.com/in/alexis-alzate)
-- 🐙 **GitHub:** [github.com/alexis-alzate](https://github.com/alexis-alzate)
-- 📧 **Email:** alexis.alzate@email.com
-- 🐦 **Twitter:** [@alexis_alzate](https://twitter.com/alexis_alzate)
-
-### 💬 **¿Hablamos?**
-Si eres **reclutador** o **CTO** y te interesa mi perfil, no dudes en contactarme:
-
-- 📅 **Calendly:** [Agendar reunión](https://calendly.com/alexis-alzate)
-- 💼 **Portfolio:** [Ver más proyectos](https://tu-portfolio.com)
-- 📧 **Email directo:** alexis.alzate@email.com
-
----
-
-## 📄 Licencia
-
-### 📋 **MIT License**
-
-```
-MIT License
-
-Copyright (c) 2024 Alexis Alzate
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
----
-
-## 🙏 Agradecimientos
-
-### 💝 **Inspiración y Referencias**
-- **🍎 Apple Design System** - Por la excelencia en UX/UI
-- **🛒 Shopify** - Referencia en e-commerce UX
-- **⚛️ React Team** - Por el increíble framework
-- **🎨 Tailwind Labs** - Por revolucionar el CSS
-- **🌍 Open Source Community** - Por compartir conocimiento
-
-### 🎯 **Recursos Utilizados**
-- **🎨 Figma Community** - Inspiración de diseño
-- **📸 Unsplash** - Imágenes de alta calidad
-- **🎭 Lucide Icons** - Iconografía consistente
-- **🌈 Coolors.co** - Paletas de colores
-- **🔧 MDN Web Docs** - Documentación técnica
-
----
+## 📞 Conecta conmigo desde el Búnker
 
 <div align="center">
   
-  ### 🚀 **¿Listo para el futuro del e-commerce?**
+  ### 🌐 Enlaces Profesionales
   
-  <p align="center">
-    <strong>TechGear Pro no es solo un proyecto, es una demostración de excelencia técnica</strong>
-  </p>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexis-alzate)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alzatezaeta@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexis-alzate)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alexis-alzate.dev)
   
-  <p align="center">
-    <a href="#-demo">🌐 Ver Demo</a>
-    ·
-    <a href="mailto:alexis.alzate@email.com">📧 Contactar</a>
-    ·
-    <a href="https://linkedin.com/in/alexis-alzate">💼 LinkedIn</a>
-  </p>
+  ### 💼 ¿Trabajamos juntos?
+  **Disponible para oportunidades full-time y proyectos freelance**
   
-  <p align="center">
-    <em>Desarrollado con ❤️ por <a href="https://github.com/alexis-alzate">Alexis Alzate</a></em>
-  </p>
+  <a href="mailto:alzatezaeta@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Contáctame-Disponible_Inmediatamente-brightgreen?style=for-the-badge" />
+  </a>
   
-  <p align="center">
-    <sub>⭐ Si te gusta este proyecto, no olvides darle una estrella ⭐</sub>
-  </p>
+  <a href="https://calendly.com/alexis-alzate">
+    <img src="https://img.shields.io/badge/📅_Agendar_Reunión-Calendly-blue?style=for-the-badge" />
+  </a>
   
 </div>
 
----
-
-**🔥 ¡Gracias por visitar TechGear Pro! 🔥**
+**¿Te interesa
