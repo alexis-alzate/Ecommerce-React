@@ -1,8 +1,10 @@
 🕋
+
 <p align="center">
   <img src="https://img.shields.io/badge/Creando-desde-38B2AC?style=for-the-badge&logo=react&logoColor=white" alt="CreandoBadge"/>
   <img src="https://img.shields.io/badge/el-Búnker-1a202c?style=for-the-badge&logo=terminal&logoColor=white" alt="Bunker Badge" />
 </p>
+
 <div align="center">
   
   # 🛒 TechGear Pro - E-commerce Profesional
@@ -12,7 +14,7 @@
   </p>
   
   <p align="center">
-    <em>Desarrollado desde el búnker tecnológico con React 18, Tailwind CSS y 24 componentes interconectados</em>
+    <em>Desarrollado desde el búnker tecnológico en <strong>Linux</strong> con React 18, Tailwind CSS y 24 componentes interconectados</em>
   </p>
   
   <p align="center">
@@ -44,6 +46,16 @@
     <img src="https://img.shields.io/badge/Deployed-Vercel-black?style=for-the-badge&logo=vercel" alt="Vercel" />
   </p>
 </div>
+
+---
+
+## 💻 Desarrollado en
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LINUX-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnome-terminal&logoColor=white" alt="Terminal"/>
+</p>
 
 ---
 
@@ -587,7 +599,7 @@ export const useSearch = (initialQuery = '') => {
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexis-alzate)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alzatezaeta@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexis-alzate)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alexis-alzate.dev)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alexis-alzate
   
   ### 💼 ¿Trabajamos juntos?
   **Disponible para oportunidades full-time y proyectos freelance**
