@@ -1,3 +1,9 @@
+🕋
+<p align="center">
+  <img src="https://img.shields.io/badge/Trabajando_desde-el_Búnker-000000?style=for-the-badge&logo=codeberg&logoColor=white" alt="Bunker Badge" />
+</p>
+
+
 <div align="center">
   
   # 🛒 TechGear Pro - E-commerce Profesional
